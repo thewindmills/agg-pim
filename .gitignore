@@ -1,0 +1,5 @@
+*.so
+*.csv
+thumbnails/
+vis_env/
+__pycache__/
